@@ -1,3 +1,4 @@
+![Calculator](https://media.theresanaiforthat.com/icons/math-whiz.png)
 # github-final-project
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
